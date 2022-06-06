@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_tab_map">
+    <sys_sg_navigation_tab_map action="INSERT_OR_UPDATE">
+        <navigation display_value="Now Mobile Nav">9f67848187403300e0ef0cf888cb0b2e</navigation>
+        <navigation_tab display_value="Movies">8794072b97730110da8c35dfe153afe2</navigation_tab>
+        <order>160</order>
+        <sys_class_name>sys_sg_navigation_tab_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-06 16:56:16</sys_created_on>
+        <sys_id>c794072b97730110da8c35dfe153afe3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Movie Library" source="x_462323_movie_l_0">71537ea797330110da8c35dfe153af77</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Movie Library">71537ea797330110da8c35dfe153af77</sys_scope>
+        <sys_update_name>sys_sg_navigation_tab_map_c794072b97730110da8c35dfe153afe3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-06 16:56:16</sys_updated_on>
+    </sys_sg_navigation_tab_map>
+</record_update>

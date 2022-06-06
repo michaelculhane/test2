@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Name":"icon-List1","Value":"e90f","FontColor":"#293e40","FontName":"now-mobile-icons","Shape":"Circle"}</icon>
+        <name>icon-List1</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-06 16:56:16</sys_created_on>
+        <sys_id>0f94472b97730110da8c35dfe153af22</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>icon-List1</sys_name>
+        <sys_package display_value="Movie Library" source="x_462323_movie_l_0">71537ea797330110da8c35dfe153af77</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Movie Library">71537ea797330110da8c35dfe153af77</sys_scope>
+        <sys_update_name>sys_sg_icon_0f94472b97730110da8c35dfe153af22</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-06 16:56:16</sys_updated_on>
+        <type>font</type>
+    </sys_sg_icon>
+</record_update>

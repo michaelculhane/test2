@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Movie" max_length="40" name="x_462323_movie_l_0_movie" type="collection">
+        <element choice="1" label="Media" max_length="40" name="media" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="VHS" sequence="10" value="vhs"/>
+                <element inactive_on_update="false" label="Blueray" sequence="20" value="blueray"/>
+                <element inactive_on_update="false" label="DVD" sequence="30" value="dvd"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Title" max_length="200" name="title" type="string"/>
+    </element>
+</database>
